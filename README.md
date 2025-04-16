@@ -15,8 +15,7 @@ A responsive, animated Netflix landing page clone built using **HTML**, **CSS**,
 ## 🚀 Live Demo
 
 Check out the live version here:  
-👉 [https://sanchit-bit.github.io/netflix-landing-page-clone](https://sanchit-bit.github.io/netflix-landing-page-clone)  
-*(Replace with your actual GitHub Pages link after deployment)*
+👉 [https://sanchit-bit.github.io/netflix-landing-page-clone](https://sanchit-bit.github.io/netflix-landing-page-clone/)
 
 ## 📁 Folder Structure
 
